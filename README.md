@@ -2,6 +2,12 @@
 ****
 
 I'm a Software Engineering student at Heriot-Watt University
+interested in front-end development and UI/UX Design, ive worked on a range of personal projects which can be seem below.
+Proficient skills:
+- C#
+- Java
+- IDEs - Eclipse, Visual Studio
+- git
 
 
 ## 💬 Contact Info
