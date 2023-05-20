@@ -6,9 +6,9 @@ interested in front-end development and UI/UX Design, ive worked on a range of p
 Proficient skills:
 - C#
 - Java
-- IDEs - Eclipse, Visual Studio
+- Python
 - git
-
+- IDEs - Eclipse, Visual Studio
 
 ## 💬 Contact Info
 - <a href = "mailto:jakecallcut123@gmail.com">✉️ *Send me an email*</a>
