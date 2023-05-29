@@ -1,5 +1,6 @@
-<h1 style="font-family:Courier New; font-size:4em;">👋 Hello, I'm Jake</h1>
-****
+
+
+# 👋 Hello, I'm Jake
 
 I'm a Software Engineering student at Heriot-Watt University
 interested in front-end development and UI/UX Design, I've worked on a range of personal projects which can be seen below.
