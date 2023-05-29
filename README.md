@@ -9,3 +9,4 @@ I'm proficient in a range of programming languages such as: C#, Java, and Python
 ## 💬 Contact Info
 - <a href = "mailto:jakecallcut123@gmail.com">✉️ *Send me an email*</a>
 - <a href = "https://www.linkedin.com/in/jake-callcut-958767277/">🟦 *Connect on LinkedIn*</a>
+- <a href = "discordapp.com/users/321361586268798977">🟣 *Discord*</a>
