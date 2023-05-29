@@ -1,4 +1,4 @@
-👋 <span style="font-family:Consolas; font-size:4em;">Hello, I'm Jake</span>
+👋 <h1 style="font-family:Consolas; font-size:4em;">Hello, I'm Jake</h1>
 ****
 
 I'm a Software Engineering student at Heriot-Watt University
