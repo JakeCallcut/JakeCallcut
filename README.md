@@ -10,4 +10,4 @@ I'm proficient in a range of programming languages such as: C#, Java, and Python
 ## 💬 Contact Info
 - <a href = "mailto:jakecallcut123@gmail.com">✉️ *Send me an email*</a>
 - <a href = "https://www.linkedin.com/in/jake-callcut-958767277/">🟦 *Connect on LinkedIn*</a>
-- <a href = "https://www.linkedin.com/in/jake-callcut-958767277/">🌍 *View my website*</a>
+- <a href = "https://jakecallcut.github.io">🌍 *View my website*</a>
