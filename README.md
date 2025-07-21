@@ -1,4 +1,5 @@
 💼 Software Developer at GI Healthcare Industries
+
 💼 Developer at Squircle
 
 🎓 Software Engineering student at Heriot-Watt University
