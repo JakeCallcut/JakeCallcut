@@ -1,9 +1,10 @@
 💼 Software Developer at GI Healthcare Industries
+💼 Developer at Squircle
 
 🎓 Software Engineering student at Heriot-Watt University
 
 ## 🛠️ Skills & Technologies
-Dart, Flutter, Java, Python, C#, SQL, JSON, Firebase, Figma
+Dart, Flutter, Swift, Java, Python, C#, SQL, JSON, Firebase, Figma
 
 ## 💬 Contact Me
 - ✉️ <a href = "mailto:hello@jakecallcut.dev">*Send me an email*</a>
