@@ -1,4 +1,4 @@
-💼 Developer at Squircle
+💼 Machine Learning & AI Intern at STMicroelectronics
 
 🎓 Software Engineering student at Heriot-Watt University
 
